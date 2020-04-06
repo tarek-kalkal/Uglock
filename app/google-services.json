@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "41794240999",
+    "firebase_url": "https://uglock-5f671.firebaseio.com",
+    "project_id": "uglock-5f671",
+    "storage_bucket": "uglock-5f671.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41794240999:android:cf7b23b2a89b7fcd",
+        "android_client_info": {
+          "package_name": "com.example.tarek.u_glock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41794240999-oksqvoim1b48o7pl5q4mld48fdu16ss7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tarek.u_glock",
+            "certificate_hash": "0c60c26ab8c7dda8303c0911a2a2ac7880705f4f"
+          }
+        },
+        {
+          "client_id": "41794240999-51jg7djvkarno338ou21mmn641rmsmlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjsPm0Pug4w99g5nGSNQQ4cr1IZK_AOX0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41794240999-51jg7djvkarno338ou21mmn641rmsmlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

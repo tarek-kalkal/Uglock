@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">41794240999-51jg7djvkarno338ou21mmn641rmsmlv.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://uglock-5f671.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">41794240999</string>
+    <string name="google_api_key" translatable="false">AIzaSyBjsPm0Pug4w99g5nGSNQQ4cr1IZK_AOX0</string>
+    <string name="google_app_id" translatable="false">1:41794240999:android:cf7b23b2a89b7fcd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBjsPm0Pug4w99g5nGSNQQ4cr1IZK_AOX0</string>
+    <string name="google_storage_bucket" translatable="false">uglock-5f671.appspot.com</string>
+    <string name="project_id" translatable="false">uglock-5f671</string>
+</resources>
